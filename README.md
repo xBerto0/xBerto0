@@ -15,7 +15,7 @@ Here are the technologies I work with most often:
 
 * **Languages:** Python, SQL
 * **AI/ML:** PyTorch, TensorFlow, OpenCV, Hugging Face
-* **Tools & Frameworks:** Git, Docker, Flutter, Linux
+* **Tools & Frameworks:** Git, Docker, Linux
 
 ### 📈 Currently...
 * ⚙️ Working as a **Python Developer** in IT consultancy.
